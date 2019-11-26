@@ -9,5 +9,5 @@ Then the model was evauated on random data files that includes ECG signal sequen
   * Keras tensorflow backend
   * numpy, pandas, sckitlearn and matplotlib libraries
   
-This model can also be used for anomaly detection of other types of modalities such as banking management, sentiment analysis.. 
+This model can also be used for anomaly detection of other types of modalities such as detecting abnormalities in an image, loss in banking management, or destruction in sentiment analysis.. 
 
