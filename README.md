@@ -4,6 +4,8 @@ Anomaly detection is a common problem that is applied to machine learning/deep l
 The proposed LSTM autoencoder model was trained on ECG signal sequences those obtained from MIT database normal patients. The data files are under the training folder in this repository. 
 Then the model was evauated on random data files that includes ECG signal sequences and the mean squared errors are calculated as loss functions after reconstructing the ECG signals.
 
+In the *LSTM_AE.py* file, we are attempting to identify a rare event classification problem in the given *outfinaltest62.csv* file where class '0' is a minor class in the dataset. 
+
 ## Dependencies
   * Python 3.5 or over
   * Keras tensorflow backend
